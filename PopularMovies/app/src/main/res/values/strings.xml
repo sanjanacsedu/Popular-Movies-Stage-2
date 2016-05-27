@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_popular" translatable="false">Popular</string>
+    <string name="action_rating" translatable="false">Top Rated</string>
+    <string name="action_favorites" translatable="false">Favorites</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_review">ReviewActivity</string>
+    <string name="title_activity_trailor">TrailorActivity</string>
+</resources>
